@@ -18,6 +18,7 @@ public class TestCalc {
 		int r = c.add(300, 200);
 		System.out.println(r);
 		System.out.println("I have changed");
-			}
+		System.out.println("I have changed");
+	}
 
 }
